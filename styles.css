@@ -1,25 +1,50 @@
 .red {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    padding-top: 40px;
     width: 200px;
     height: 100px;
+    text-transform: uppercase;
+    text-align: center;
+    border-style: solid;
+    border-color: green;
+    border-width: 10px;
     background-color: red;
 }
   
 .yel {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    padding-top: 40px;
     width: 200px;
     height: 100px;
     background-color: yellow;
-    bottom: 116px;
+    bottom: 160px;
     left: 250px;
+    text-transform: uppercase;
+    text-align: center;
+    border-style: solid;
+    border-color: red;
+    border-width: 10px;
     position: relative
     
 }
 
 .grn {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    padding-top: 40px;
     width: 200px;
     height: 100px;
     background-color: green;
-    bottom: 232px;
+    bottom: 320px;
     left: 500px;
+    text-transform: uppercase;
+    text-align: center;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 10px;
     position: relative
 
 }
